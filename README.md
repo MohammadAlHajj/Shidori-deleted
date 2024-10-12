@@ -1,8 +1,4 @@
 # Shidori-2
-A React Based Spreadsheet view to manually track watched anime
-
-
-
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
